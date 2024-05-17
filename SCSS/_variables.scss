@@ -6,6 +6,7 @@
 
 // Primary
 $Moderate-violet: hsl(263, 55%, 52%);
+$avatar-ring: hsl(264, 81%, 71%);
 $Very-dark-grayish-blue: hsl(217, 19%, 35%);
 $Very-dark-blackish-blue: hsl(219, 29%, 14%);
 $White: hsl(0, 0%, 100%);
@@ -16,7 +17,8 @@ $Light-grayish-blue: hsl(210, 46%, 95%);
 
 // Typography
 $base-font-size: 10px;
-$Font-size: 13px;
+$Font-size: 1rem;
+$body-font-size: 0.8rem;
 $Font-weight: 500;
 $Font-weight-2: 600;
 $Font-family: "Barlow Semi Condensed", sans-serif;
@@ -25,3 +27,8 @@ $Font-family: "Barlow Semi Condensed", sans-serif;
 $Border-radius: 10px;
 $mobile-gap: 2.5rem;
 $desktop-gap: 3rem;
+$card-width: 23.5rem;
+$border-radius: 1rem;
+$rounded-full: 50%;
+$padding: 2rem;
+$bold_big: 1.2rem;
